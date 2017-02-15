@@ -1,13 +1,13 @@
 # Outil de prospection 
-## Entreprises et déchets
+# Entreprises et déchets
 
-### Avant-propos
+## Avant-propos
 
  Ce travail a été réalisé à partir de la base de données [SIRENE](https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/) produite par l'INSEE ainsi que de données économiques issuent du site [DataInfoGreffe](https://datainfogreffe.fr/page/index/). 
 
 Il est mis à la disposition des entreprises du réseau PRAXY.
 
-### Mode d'emploi 
+## Mode d'emploi 
 
  Ces réalisations cartographiques vous permettent de visualiser l'activité économique par département et d'obtenir des informations sur les entreprises. Seuls les secteurs susceptibles de produire suffisamment de déchets sont représentés.
 Les widgets sur le côté vous permettent d'affiner votre recherche en fonction de différents critères. 
@@ -15,7 +15,7 @@ Ainsi, vous pouvez isoler, opérer des sélections multiples, rechercher par mot
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pbv_8N0PmJg" frameborder="0" allowfullscreen></iframe>
 
-### A vous de jouer
+## A vous de jouer
 
 La carte ci-dessous vous permet d'accéder aux différentes ressources, cartes et casseurs excell pour les départements concernés.
 

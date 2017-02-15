@@ -12,6 +12,7 @@ Vous trouverez ici toutes les ressources du projet
 ## Données
 * [Entreprises en Haute-Loire] (https://github.com/sducournau/Praxy/raw/master/Haute-Loire/Entreprises_Haute-Loire.xlsx)
 * [Entreprises en Indre-et-Loire] (https://github.com/sducournau/Praxy/raw/master/Indre-et-Loire/Entreprises_Indre-et-Loire.xlsx)
+* [Variables activité et mériaux] (https://github.com/sducournau/Praxy/raw/master/Variables%20Activit%C3%A9_Mat%C3%A9riaux.xlsx)
 
 ## Youtube
 * [Prise en main] (https://www.youtube.com/watch?v=pbv_8N0PmJg)

@@ -5,5 +5,9 @@ Cartes
 [Entreprises en Indre-et-Loire] (https://simon-d.carto.com/builder/c831cea8-f12d-11e6-8aca-0e05a8b3e3d7/embed)
 [Déchets des Entreprises en région Auvergne-Rhône-Alpes] (https://simon-d.carto.com/builder/bd102938-e0a2-4081-b29d-52f68dcdac94/embed)
 
+Données
+[Entreprises en Haute-Loire] (https://github.com/sducournau/Praxy/raw/master/Haute-Loire/Entreprises_Haute-Loire.xlsx)
+[Entreprises en Indre-et-Loire] (https://github.com/sducournau/Praxy/raw/master/Indre-et-Loire/Entreprises_Indre-et-Loire.xlsx)
+
 Youtube
 [Prise en main] (https://www.youtube.com/watch?v=pbv_8N0PmJg)

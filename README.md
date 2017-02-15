@@ -15,7 +15,8 @@ Il est mis à la disposition des entreprises du réseau PRAXY.</p>
 
 <p>  Ces réalisations cartographiques vous permettent de visualiser l'activité économique par département et d'obtenir des informations sur les entreprises. Seuls les secteurs susceptibles de produire suffisamment de déchets sont représentés.
 Les widgets sur le côté vous permettent d'affiner votre recherche en fonction de différents critères. 
-Ainsi, vous pouvez isoler, opérer des sélections multiples, rechercher par mot-clé des classes dans les sélecteurs. Vous pouvez également changer l'aspect du rendu en appuyant sur l'icône "goutte" et obtenir une carte plus expressive en fonction de vos besoins.      
+Ainsi, vous pouvez isoler, opérer des sélections multiples, rechercher par mot-clé des classes dans les sélecteurs. Vous pouvez également changer l'aspect du rendu en appuyant sur l'icône "goutte" et obtenir une carte plus expressive en fonction de vos besoins.
+Vous pouvez consulter la liste des activités retenues <a href="https://github.com/sducournau/Praxy/raw/master/Variables%20Activit%C3%A9_Mat%C3%A9riaux.xlsx" target="_blank">ici</a>.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/pbv_8N0PmJg" frameborder="0" allowfullscreen></iframe></p>
 -------------------------------------------

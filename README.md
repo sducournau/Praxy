@@ -12,9 +12,9 @@ Ces réalisations cartographiques vous permettent de visualiser l'activité éco
 Les widgets sur le côté vous permettent d'affiner votre recherche en fonction de différents critères. Ainsi, vous pouvez isoler, opérer des sélections multiples, rechercher par mot-clé des classes dans les sélecteurs. Il est également possible de changer l'aspect du rendu en appuyant sur le petit icône en forme de goutte et obtenir une carte plus expressive en fonction de vos besoins.
 
 {::options parse_block_html="true" /}
-<figure class="video_container">
+
 
 <iframe src="https://www.youtube.com/embed/tqcNGkYsIdE"  width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
-</figure>
+
 {::options parse_block_html="false" /}

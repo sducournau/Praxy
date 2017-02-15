@@ -13,6 +13,6 @@ Les widgets sur le côté vous permettent d'affiner votre recherche en fonction 
 
 <figure class="video_container">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tqcNGkYsIdE" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/tqcNGkYsIdE"   frameborder="0" allowfullscreen></iframe>
 
 </figure>

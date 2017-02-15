@@ -16,3 +16,6 @@ Vous trouverez ici toutes les ressources du projet
 
 ## Youtube
 * [Prise en main] (https://www.youtube.com/watch?v=pbv_8N0PmJg)
+
+## Page
+* [Description] (https://sducournau.github.io/Praxy/)

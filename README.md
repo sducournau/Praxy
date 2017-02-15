@@ -1,5 +1,5 @@
 # Outil de prospection 
-# Entreprises et déchets  
+# Entreprises et déchets <br/> 
 
 
 
@@ -7,7 +7,7 @@
 
  Ce travail a été réalisé à partir de la base de données [SIRENE](https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/) produite par l'INSEE ainsi que de données économiques issuent du site [DataInfoGreffe](https://datainfogreffe.fr/page/index/). 
 
-Il est mis à la disposition des entreprises du réseau PRAXY.  
+Il est mis à la disposition des entreprises du réseau PRAXY.<br/>
 
 
 
@@ -17,7 +17,7 @@ Il est mis à la disposition des entreprises du réseau PRAXY.
 Les widgets sur le côté vous permettent d'affiner votre recherche en fonction de différents critères. 
 Ainsi, vous pouvez isoler, opérer des sélections multiples, rechercher par mot-clé des classes dans les sélecteurs. Vous pouvez également changer l'aspect du rendu en appuyant sur l'icône "goutte" et obtenir une carte plus expressive en fonction de vos besoins.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/pbv_8N0PmJg" frameborder="0" allowfullscreen></iframe>  
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/pbv_8N0PmJg" frameborder="0" allowfullscreen></iframe><br/>  
 
 
 

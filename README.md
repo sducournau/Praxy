@@ -16,4 +16,7 @@ Ainsi, vous pouvez isoler, opérer des sélections multiples, rechercher par mot
 
 ## A vous de jouer
 
+La carte ci-dessous vous permet d'accéder aux différentes ressources, cartes et casseurs excell pour les départements concernés.
+
 <iframe width="100%" height="520" frameborder="0" src="https://simon-d.carto.com/builder/66be4896-f3c5-11e6-b55e-0e98b61680bf/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+

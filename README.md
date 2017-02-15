@@ -21,4 +21,4 @@ La carte ci-dessous vous permet d'accéder aux différentes ressources, cartes e
 
 <iframe width="100%" height="520" frameborder="0" src="https://simon-d.carto.com/builder/66be4896-f3c5-11e6-b55e-0e98b61680bf/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-Si la carte ne s'affiche pas vous pouvez accéder aux ressources en suivant ce [lien](https://github.com/sducournau/Praxy/blob/master/Liens).
+Si la carte ne s'affiche pas, suivez ce [lien](https://github.com/sducournau/Praxy/blob/master/Hyperliens.md).

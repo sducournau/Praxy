@@ -1,14 +1,14 @@
 # Outil de prospection 
 # Entreprises et déchets
--------------------------------------------
+-------------------------------------------------------------
 
 
 ## Avant-propos
 
-<p class="retrait">  Ce travail a été réalisé à partir de la base de données <a href="https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/" target="_blank">SIRENE</a> produite par l'INSEE, de données économiques issuent du site <a href="https://datainfogreffe.fr/page/index/" target="_blank">DataInfoGreffe</a> ainsi que des données relatives aux acteurs du recyclage fournies par <a href="http://www.sinoe.org/" target="_blank">l'ADEME</a>. 
+Ce travail a été réalisé à partir de la base de données <a href="https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/" target="_blank">SIRENE</a> produite par l'INSEE, de données économiques issuent du site <a href="https://datainfogreffe.fr/page/index/" target="_blank">DataInfoGreffe</a> ainsi que des données relatives aux acteurs du recyclage fournies par <a href="http://www.sinoe.org/" target="_blank">l'ADEME</a>. 
 
 Il est mis à la disposition des entreprises du réseau PRAXY.
------------------------------------------------------------
+-----------------------------------------------------------------------------
 
 
 ## Mode d'emploi 
@@ -19,7 +19,7 @@ Ainsi, vous pouvez isoler, opérer des sélections multiples, rechercher par mot
 Vous pouvez consulter la liste des activités retenues <a href="https://github.com/sducournau/Praxy/raw/master/Variables%20Activit%C3%A9_Mat%C3%A9riaux.xlsx" target="_blank">ici</a>.
 <br/>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/pbv_8N0PmJg" frameborder="0" allowfullscreen></iframe>
--------------------------------------------
+----------------------------------------------------------------------------
 
 
 ## A vous de jouer

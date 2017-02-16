@@ -7,7 +7,7 @@
   Ce travail a été réalisé à partir de la base de données <a href="https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/" target="_blank">SIRENE</a> produite par l'INSEE, de données économiques issuent du site <a href="https://datainfogreffe.fr/page/index/" target="_blank">DataInfoGreffe</a> ainsi que des données relatives aux acteurs du recyclage fournies par <a href="http://www.sinoe.org/" target="_blank">l'ADEME</a>.<br/> 
 Il est mis à la disposition des entreprises du réseau <a href="http://www.praxy.fr/" target="_blank">PRAXY</a>.
 
-
+-----------------------------------------------------------------------------------
 ## Mode d'emploi 
 
   Ces réalisations cartographiques vous permettent de visualiser l'activité économique par département et d'obtenir des informations sur les entreprises. Seuls les secteurs susceptibles de produire suffisamment de déchets sont représentés.<br/>Vous pouvez consulter la liste des activités retenues <a href="https://github.com/sducournau/Praxy/raw/master/Variables%20Activit%C3%A9_Mat%C3%A9riaux.xlsx" target="_blank">ici</a>.<br/>
